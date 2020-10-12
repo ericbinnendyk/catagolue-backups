@@ -1,2 +1,2 @@
 # catagolue-backups
-Software to generate backups of Catagolue data from textcensus, and 
+Software to generate backups of Catagolue data from textcensus, and previous backups.
