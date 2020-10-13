@@ -1,0 +1,243 @@
+1 beacon
+11-loop
+18P2.471
+20P2
+21P2
+22P2
+23P2
+24P2
+26P2
+4 boats
+Aircraft carrier
+Achim's p8
+Barge
+Barge with long tail
+Beacon
+Beacon and two tails
+Bee hat
+Beehive
+Beehive and cap
+Beehive and dock
+Beehive and long hook eating tub
+Beehive and table
+Beehive at beehive
+Beehive at loaf
+Beehive bend tail
+Beehive with nine
+Beehive with tail
+Bent keys
+Bi-cap
+Bi-loaf 1
+Bi-loaf 2
+Bi-pond
+Big S
+Bipole
+Bipole on boat
+Bipole on ship
+Blinker
+Block
+Block and cap
+Block and dock
+Block and two tails
+Block on table
+Block-laying switch engine
+Blocker
+Boat
+Boat on carrier
+Boat on snake
+Boat on spark coil
+Boat with long tail
+Boat-ship-tie
+Boat-tie
+Bookends
+Buckaroo
+By flops
+Candlefrobra
+Canoe
+Cap and dock
+Carrier siamese carrier
+Carrier siamese snake
+Caterer
+Cis-R-bee and R-loaf
+Cis-barge with tail
+Cis-beacon and anvil
+Cis-beacon and cap
+Cis-beacon and dock
+Cis-beacon and table
+Cis-beacon down and long hook
+Cis-beacon up and long hook
+Cis-block and long hook
+Cis-boat and dock
+Cis-boat and long hook eating tub
+Cis-boat and table
+Cis-boat with nine
+Cis-boat with tail
+Cis-fuse with two tails
+Cis-hook and R-bee
+Cis-hook with tail
+Cis-loaf with tail
+Cis-long boat with tail
+Cis-mirrored R-bee
+Cis-mirrored R-loaf
+Cis-mirrored R-mango
+Cis-mirrored worm
+Cis-queen bee shuttle
+Cis-rotated hook
+Cis-rotated R-bee
+Cis-shillelagh
+Claw with tail
+Clock
+Cloverleaf
+Cloverleaf interchange
+Coe ship
+Coe's p8
+Cthulhu
+Cuphook
+Cyclic
+Dead spark coil
+Dock siamese carrier
+Eater 1
+Eater 2
+Eater on boat
+Eater plug
+Eater siamese eater
+Elevener
+Elkies' p5
+Figure 8
+Fore and back
+Fourteener
+Fox
+Fumarole
+Glider
+Glider-producing switch engine
+Great on-off
+Griddle and beehive
+Griddle and block
+Griddle and blocks
+Griddle and boat
+Griddle and dock
+Griddle and table
+Hat
+Heavyweight spaceship
+Hexapole
+Honeycomb
+Hook with tail
+Hungry hat
+Integral sign
+Integral with hook
+Integral with tub
+Jam
+Lightweight spaceship
+Loaf
+Loaf siamese barge
+Loaf siamese loaf
+Long barge
+Long boat
+Long canoe
+Long cis-hook with tail
+Long cis-shillelagh
+Long claw with tail
+Long hook
+Long hook and dock
+Long hook with tail
+Long integral
+Long long barge
+Long long boat
+Long long canoe
+Long long hook with tail
+Long long long snake
+Long long long long snake
+Long long shillelagh
+Long long ship
+Long long snake
+Long shillelagh
+Long ship
+Long snake
+Loop
+Mango
+Mazing
+Mickey Mouse
+Middleweight spaceship
+Mirrored dock
+Mold
+Monogram
+Moose antlers
+Octagon II
+Odd keys
+Odd test tube baby
+Omnibus
+Omnibus with tubs
+Ortho-loaf and table
+Paperclip
+Pentadecathlon
+Pentapole
+Phoenix 1
+Piston
+Pond
+Pond and dock
+Professor
+Pulsar
+Quad
+Quadpole
+Quadpole on boat
+Quadpole on ship
+R-bee and snake
+Rotated house
+Scorpion
+Sesquihat
+Shillelagh
+Ship
+Ship on long boat
+Ship-tie
+Short keys
+Sidewalk
+Skewed quad
+Small lake
+Smiley
+Snake
+Snake bridge snake
+Snake siamese snake
+Snorkel loop
+Spark coil
+Symmetric scorpion
+Table and dock
+Table on table
+Test tube baby
+Tetraloaf I
+Toad
+Trans-R-bee and R-loaf
+Trans-barge with tail
+Trans-beacon and cap
+Trans-beacon and dock
+Trans-beacon and table
+Trans-beacon down and long hook
+Trans-beacon up and long hook
+Trans-block and long hook
+Trans-block and long hook eating tub
+Trans-boat and dock
+Trans-boat and table
+Trans-boat with nine
+Trans-boat with tail
+Trans-fuse with two tails
+Trans-hook and R-bee
+Trans-loaf with tail
+Trans-long boat with tail
+Trans-mirrored R-bee
+Trans-queen bee shuttle
+Trans-rotated R-bee
+Trice tongs
+Tripole
+Tub
+Tub test tube baby
+Tub with long long tail
+Tub with long nine
+Tub with long tail
+Tub with tail
+Tumbler
+Twin bees shuttle
+Twin hat
+Two eaters
+Two pulsar quadrants
+Unix
+Washing machine
+Why not
